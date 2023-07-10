@@ -13,7 +13,7 @@ Ball Collision Python is a Python project that simulates the collision between b
 
 To run the Ball Collision Python simulation on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ball-collision-python.git`
+1. Clone the repository: `git clone https://github.com/HenriqueAPMendes/ball-collision-python.git`
 2. Install the required dependencies: `pip install numpy pygame`
 3. Run the main script: `python main.py`
 4. Interact with the simulation by adjusting the parameters or observing the default scenario.
