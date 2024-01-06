@@ -15,16 +15,6 @@ To run the Ball Collision Python simulation on your local machine, follow these 
 
 1. Clone the repository: `git clone https://github.com/HenriqueAPMendes/ball-collision-python.git`
 2. Install the required dependencies: `pip install numpy pygame`
-3. Run the main script: `python main.py`
+3. Run the main script: `python BallCollision.py`
 4. Interact with the simulation by adjusting the parameters or observing the default scenario.
-5. Enjoy exploring the fascinating world of ball collisions!
-
-## Contributing
-
-Contributions to Ball Collision Python are welcome! If you have any ideas, bug fixes, or feature suggestions, please open an issue or submit a pull request. Let's collaborate to make this project even better.
-
-## Acknowledgments
-
-We would like to express our gratitude to the open-source community for their invaluable contributions and to the developers of the libraries and tools used in this project.
-
-Feel free to provide feedback, report issues, or reach out with any questions. Happy coding!
+5. Enjoy!
